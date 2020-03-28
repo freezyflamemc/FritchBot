@@ -1,0 +1,2 @@
+Operator//phanton0w0,freezyflame
+Viewer/!setpoints ,!addpoints ,!fstartraffle ,!fstopraffle,!pointsdraw,!luckydraw,!fraffledraw/
